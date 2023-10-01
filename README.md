@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my own Graphics Engine in OpenGL api 🌜
-- 🌱 I’m currently mastering C++ 🎯
+- 🌱 Seeking mastery in C++ 🎯
 - 👯 Looking forward to collaboration using following languages and technologies:
 
   - C/C++ both low and high level, C++/CLI, C#
