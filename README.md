@@ -3,7 +3,7 @@
 - 🌱 Seeking mastery in C++ 🎯
 - 👯 Looking forward to collaboration using following languages and technologies:
 
-  - C/C++ both low and high level, C++/CLI, C#
+  - C/C++ both low and high level, C++/CLI, C#, Python
       
   - Graphics\Game Engine programming using OpenGL api for rendering
 - 🤔 Help and advice is always welcomed! 😊
