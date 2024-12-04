@@ -15,7 +15,7 @@ I'm Michal, a passionate developer currently focused on building a **Graphics En
 ---
 
 ### 🛠️ Technical Skills
-- **Languages**: C++, C#, Python, NASM
+- **Languages**: C, C++, C#, Python, NASM
 - **Technologies**: OpenGL, Game Engine Development, Rendering Techniques
 - **Other Tools**: C++/CLI, Git
 
