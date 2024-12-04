@@ -23,7 +23,7 @@ I'm Michal, a passionate developer currently focused on building a **Graphics En
 
 ### 💬 Let's Connect!
 - **Advice and Support**: Always open to suggestions and insights from experienced developers. Any help is appreciated! 😊
-- **Contact**: Feel free to reach out at **[michallata101@gmail.com](mailto:michallata101@gmail.com)** or connect with me on [LinkedIn](#) 
+- **Contact**: Feel free to reach out at **[michallata101@gmail.com](mailto:michallata101@gmail.com)** or connect with me on [LinkedIn](https://www.linkedin.com/in/micha%C5%82-lata-094287340/) 
 
 ---
 
